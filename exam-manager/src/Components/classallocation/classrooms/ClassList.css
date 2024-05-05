@@ -1,0 +1,17 @@
+.parent{
+    width: 100vw;
+    height: auto;
+    border: 5px solid green;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+  }
+  .classcard{
+    margin-bottom: 5%;
+  }
+
+  .parent .right{
+    width: 40vw;
+    height: 100%;
+    background: chartreuse;
+  }

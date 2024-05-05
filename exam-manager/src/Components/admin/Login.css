@@ -1,0 +1,48 @@
+.login-card {
+  background: url('../admin/Images/white.jpg');
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+.login-card h2{
+  color: rgb(0, 119, 255);
+}
+
+.form-outline {
+    width: 100%;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.form-outline i {
+    position: absolute;
+  
+}
+
+.container{
+  width: 100%;
+}
+
+.icon {
+    padding: 10px;
+    padding-right: 30px;
+    color:rgb(0, 119, 255);
+    min-width: 50px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.additional{
+  text-align: center;
+}
+  
+  @media (min-width: 1025px) {
+    .h-custom-2 {
+      height: 100%;
+      }
+    }

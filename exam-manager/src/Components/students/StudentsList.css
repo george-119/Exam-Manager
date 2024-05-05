@@ -1,0 +1,47 @@
+.main-student-container{
+    margin-top: none;
+}
+
+.student-container{
+    height: 120vh;
+    border-radius: 2rem;
+    max-width: 90%;
+    background:#f2f2f2;
+}
+
+.student-scroll{
+    margin-top:20px;
+    overflow-y: scroll;
+    height: 95vh;
+}
+
+.student-scroll::-webkit-scrollbar{
+    display: none;
+}
+
+.card-top{
+    display:flex;
+    justify-content:flex-end;
+    align-items:end;
+}
+
+.btn-delall{
+    box-shadow:rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    margin-right:70px;
+}
+
+.btn-search{
+    width:60px;
+    display:inline;
+    margin-right:30px;
+    box-shadow:rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.input-search{
+    width:400px;
+    height:38px;
+    border:none;
+    border-radius:5px;
+    box-shadow:rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+
+}

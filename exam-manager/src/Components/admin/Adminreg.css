@@ -1,0 +1,42 @@
+
+.reg-card form{
+    margin: auto;
+    display: flex;
+    align-content: flex-end;
+}
+
+.reg-card h2{
+    color: rgb(0, 119, 255);
+}
+
+.reg-card {
+    background: url('../admin/Images/white.jpg');
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+.form-outline {
+    width: 100%;
+}
+
+.form-outline i {
+    position: absolute;
+    
+    
+}
+
+.icon {
+    padding: 10px;
+    padding-right: 30px;
+    color:rgb(0, 119, 255);
+}
+
+.form-control {
+    width: 100%;
+    
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
